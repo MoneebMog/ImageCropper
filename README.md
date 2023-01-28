@@ -1,0 +1,2 @@
+# ImageCropper
+Crops yo Images
